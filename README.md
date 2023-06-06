@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **nilo.echezarreta@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading comic books, football and play videogames...and coding of course**
+- ⚡ What I like to do: **I like so much reading comic books, watching football games and play videogames...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
