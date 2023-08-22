@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Javascript and Front-End developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **Final Project of "Soy Henry" Bootcamp**
+- 🔭 I’m currently working on Development of IA Chat
 
-- 🌱 I’m currently learning **Typescript, MongoDb and Tailwind**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
