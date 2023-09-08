@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Development of IA Chat
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs** and **AWS**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
