@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Javascript and Front-End developer from Argentina</h3>
+<h3 align="center">A passionate FullStack developer from Argentina</h3>
 
-- 🔭 I’m currently working on Development of IA Chat
+- 🔭 I currently work at Brace Developers and I have an individual project that is growing day by day. 
 
-- 🌱 I’m currently learning **NextJs** and **AWS**
+- 🌱 I’m currently learning **NextJs**, **Nest**, **GranphQl** and **AWS**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **challenging projects**
 
 - 📫 How to reach me: **nilo.echezarreta@gmail.com**
 
